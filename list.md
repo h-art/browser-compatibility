@@ -8,7 +8,7 @@ Updated on : 2018-02-08
 | Windows 7 |  |  | X | X |  |
 | Windows 8 |  | X | X | X |  |
 | Windows 10 | X |  | X | X |  |
-| MaxOSX |  |  | X | X | X |
+| MacOSX |  |  | X | X | X |
 
 ## Tablet
 
