@@ -1,5 +1,5 @@
 <?php
-$csv = array_map('str_getcsv', file('browser_version-ww-monthly-201701-201801.csv'));
+$csv = array_map('str_getcsv', file('stats.csv'));
 $a = array_combine($csv[0], end($csv));
 array_shift($a);
 arsort($a);
