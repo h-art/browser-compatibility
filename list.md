@@ -24,5 +24,3 @@ Updated on : 2018-02-08
 | iOS 11, iOS 10 (iphone5, iphone5s,  iphone 6, iphone 6 plus, iphone 7, iphone 7plus, iphone8, iphone8 plus, iphoneX) | webkit (Safari Mobile) | standard |
 | Android 4.4 - 7 | webkit (Chrome) | from 480x800 to 1440x2560 |
 
-
-
