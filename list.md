@@ -1,11 +1,10 @@
 # Compatibilty List
-Updated on : 2018-02-08
+Updated on : 2018-10-18
 
 ## Desktop
 
 | OS | MS EDGE (latest 2 stable ver) | MSIE 11 | Firefox (latest 2 stable ver) | Chrome (latest 2 stable ver) | Safari (latest 2 stable ver) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Windows 7 |  |  | X | X |  |
 | Windows 8 |  | X | X | X |  |
 | Windows 10 | X |  | X | X |  |
 | MacOSX |  |  | X | X | X |
