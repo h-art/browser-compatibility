@@ -1,5 +1,5 @@
 # Compatibilty List
-Updated on : 2018-10-18
+Updated on : 2018-10-26
 
 ## Desktop
 
@@ -13,13 +13,13 @@ Updated on : 2018-10-18
 
 | OS | Browser | Screen Resolution |
 | --- | --- | --- |
-| iOS 11, iOS 10 (ipad 9.7, ipad mini 4, ipad Pro) | webkit (Safari Mobile) | standard |
-| Android 4.4 - 7 | webkit (Chrome) | 1024x600 and greater |
+| iOS 12, iOS 11, iOS 10 (ipad 9.7, ipad mini 4, ipad Pro) | webkit (Safari Mobile) | standard |
+| Android 4.4 - 8 | webkit (Chrome) | 1024x600 and greater |
 
 ## Smartphone
 
 | OS | Browser | Screen Resolution |
 | --- | --- | --- |
-| iOS 11, iOS 10 (iphone 6, iphone 6 plus, iphone 7, iphone 7plus, iphone8, iphone8 plus, iphoneX) | webkit (Safari Mobile) | standard |
-| Android 4.4 - 7 | webkit (Chrome) | from 480x800 to 1440x2560 |
+| iOS 12, iOS 11, iOS 10 (iphone 6, iphone 6 plus, iphone 7, iphone 7plus, iphone8, iphone8 plus, iphoneX) | webkit (Safari Mobile) | standard |
+| Android 4.4 - 8 | webkit (Chrome) | from 480x800 to 1440x2560 |
 
